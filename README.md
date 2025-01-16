@@ -1,5 +1,8 @@
 Hello, My name is Yuliyan Parushev 
 =================================  
+
+About me:
+
 * 🌍  I'm based in Sofia, Bulgaria 🇧🇬
 * ✉️  You can contact me at [julian.parushev@gmail.com](mailto:julian.parushev@gmail.com)
 * 🧠  I'm learning JavaScript programming
